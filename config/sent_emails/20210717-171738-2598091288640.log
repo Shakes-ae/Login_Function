@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: adeyeye1034@gmail.com
+Date: Sat, 17 Jul 2021 16:17:38 -0000
+Message-ID: <162653865871.3096.5888628295668830340@DESKTOP-FIJ3U7O>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/apxxde-1f47bead07077a6bef10e3939e114cbd/
+
+Your username, in case you’ve forgotten: shakes
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
